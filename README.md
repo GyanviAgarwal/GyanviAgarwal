@@ -1,4 +1,4 @@
-### Heyaa! 👋
+### Hey!
 
 
 - 🔭 I’m a postgraduate student studying VLSI.
